@@ -3,3 +3,4 @@ hello world
 
 i am adding the new line
 added the new text
+added the new text
